@@ -5,3 +5,9 @@ faz a msm coisa que o babel faz.
 
 `Tailwind CSS`
 Classe de estilos para o html.
+
+`Icons`
+phosphor-react
+
+`Implementacao de acessibilidade`
+@headlessui/react - msm do tailwindcss
